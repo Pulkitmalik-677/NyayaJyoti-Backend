@@ -1,4 +1,0 @@
-flask
-pandas
-python-docx
-flask-cors
