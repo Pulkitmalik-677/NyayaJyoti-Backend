@@ -1,0 +1,51 @@
+clause_type,example_1,example_2,instruction,parameters
+grace_period_notice,You are given a grace period of 7 days from the date of this notice to clear your dues.,Failure to comply within grace period will lead to legal escalation.,Clause about grace period for repayment,Loan_Amount
+partial_payment_acceptance,My client is willing to accept the payment in two equal parts within 10 days.,Installment flexibility will not remain if you fail to act immediately.,Clause about partial repayment acceptance,Installment_Option
+third_party_liability,"In case of your absence, your guarantor shall be held liable for the defaulted loan.",Recovery will be initiated against your guarantor's assets as well.,Clause about guarantor liability,Guarantor_Name
+reminder_clause,"Despite several reminders dated [Previous_Date], you have ignored repayment.",All earlier attempts are documented and will be produced in court.,Clause about borrower ignoring reminders,Previous_Date
+emergency_medical_clause,"The loan was taken citing urgent medical needs, which my client assisted in good faith.","Despite compassionate consideration, repayment is still due.",Clause about loan taken for medical emergency,Purpose
+relief_for_hardship,"We understand hardships, yet continued delay is no longer justifiable.",Humanitarian grounds don’t exempt legal consequences.,Clause about delay despite hardship,
+acknowledgment_by_borrower,You had verbally acknowledged the outstanding dues on multiple occasions.,This acknowledgment was recorded and validated by witness.,Clause about borrower acknowledged dues,
+collateral_promise,"You promised to provide property documents as collateral, which remains unfulfilled.",Collateral promise breach reinforces breach of trust.,Clause about collateral promise made,Collateral_Details
+installment_proposal,An offer to pay the loan in monthly installments was proposed but not confirmed by you.,Delay in confirming installment plan indicates avoidance.,Clause about installment offer by borrower,
+borrower_guarantor_clause,Your friend [Guarantor_Name] who vouched for repayment is being notified too.,Guarantor’s involvement shall be used as legal support.,Clause about third-party repayment assurance,Guarantor_Name
+acknowledged_due_amount,You had acknowledged that the total outstanding amount is Rs.[Loan_Amount].,You owe Rs.[Loan_Amount] as agreed and acknowledged.,Clause about due amount being acknowledged,Loan_Amount
+intended_usage_declaration,"You confirmed that the funds were used for [Purpose], hence liability is binding.",Funds used for personal benefit implies legal liability.,Clause about use of funds justification,Purpose
+promise_to_repay,You assured to return the full amount by [Due_Date] without fail.,Default breaches your promise made on [Due_Date].,Clause about verbal promise to repay,Due_Date
+written_agreement_clause,A written undertaking was agreed upon but remains unsigned by you.,We expect signed acknowledgment without further delay.,Clause about written loan agreement requirement,
+cheque_bounce_warning,The cheque provided for Rs.[Loan_Amount] bounced due to insufficient funds.,Cheque dishonor notice has already been issued under NI Act.,Clause about cheque dishonor incident,Loan_Amount
+mobile_acknowledgment_clause,You acknowledged the due amount on WhatsApp dated [Chat_Date].,This message thread will be submitted to the court.,Clause about acknowledgment over whatsapp,Chat_Date
+legal_fee_reimbursement,All legal fees borne by my client due to your default shall be reimbursed.,Your legal liability includes all advocate expenses incurred.,Clause about reimbursement of legal expenses,
+reference_previous_notice,You were earlier notified via letter dated [Previous_Notice_Date].,Repeated notices failed to yield any resolution.,Clause about previous notice reference,Previous_Notice_Date
+interest_revision_clause,The interest clause has now been revised to 12% p.a. effective immediately.,Interest claim is being enforced as no repayment was received.,Clause about interest clause revision,Interest_Rate
+non_transferability_clause,This loan shall not be transferred or assigned without prior consent.,Rights are reserved against any third-party transfer.,Clause about no transfer of loan,
+applicable_law_clause,This case shall be governed by Indian Contract Act and Debt Recovery Laws.,Legal remedies as per jurisdiction are now being pursued.,Clause about applicable laws on friendly loans,
+alternate_dispute_resolution,We are open to resolving this matter through mediation before litigation.,"If mediation fails, suit filing shall follow.",Clause about dispute resolution attempt,
+counsel_engagement,My client reserves the right to engage senior counsel for litigation.,Litigation expenses shall be escalated to claim recovery.,Clause about engaging legal counsel,
+reaffirmation_of_terms,The terms discussed and agreed remain valid till this notice.,No amendment to terms has occurred since agreement.,Clause about reaffirmation of loan terms,
+borrower_family_notification,Your family members will be notified about legal consequences shortly.,This serves as warning before family involvement.,Clause about family warning,
+property_attachment_warning,Failure to repay may result in attachment of your movable/immovable property.,Attachment procedure shall begin if no response is received.,Clause about property attachment,
+good_faith_negotiation,We invite you to come forward for a good-faith discussion to settle this.,Initiate repayment dialogue before court intervention.,Clause about negotiation invitation,Visit_Date
+signed_copy_retention,A signed copy of this notice is retained for future reference.,Record retained with time-stamped acknowledgement.,Clause about notice record retention,
+personal_visit_reminder,"You were personally visited on [Visit_Date], but the matter remains unresolved.",Personal discussion attempts have been exhausted.,Clause about personal follow-up,
+whatsapp_communication_clause,You were messaged on WhatsApp but failed to respond to repayment queries.,Electronic conversation shall be used as supporting evidence.,Clause about whatsapp messages used as proof,
+repayment_plan_proposal,We propose a structured repayment plan. Please revert at the earliest.,Installments must be committed in writing this time.,Clause about installment plan proposal,
+waiver_denial,You are not entitled to any waiver on repayment as per our terms.,Waiver claims have no legal standing now.,Clause about refusal of waiver,
+bank_transaction_evidence,Transaction screenshot of transfer is attached for your reference.,Digital transaction logs are enclosed for record.,Clause about transaction proof by bank,Email_Date
+email_proof_clause,Email communication dated [Email_Date] serves as additional proof.,Printout of email trail enclosed for review.,Clause about email proof of notice,Call_Date
+admission_of_liability,You had admitted liability during a phone call on [Call_Date].,Phone call notes maintained with timestamped logs.,Clause about recorded admission of liability,
+claim_in_court_warning,We shall file a suit in civil court if dues remain unpaid after this.,Final deadline before suit filing expires in 7 days.,Clause about civil suit warning,
+penalty_on_delay,A penalty of Rs.500/day applies post expiry of 15-day notice period.,Late fine applicable post 15-day period ends.,Clause about penalty for delay,
+termination_of_goodwill,Any existing goodwill shall be revoked post this communication.,You are urged to restore trust immediately.,Clause about termination of relationship,
+borrower_dishonesty_record,Your failure to cooperate shall be noted as willful dishonesty.,Breach shall be escalated to fraud claim if unchecked.,Clause about dishonesty by borrower,
+credit_score_consequence,Your inaction may negatively affect your creditworthiness.,Non-payment will be reported to credit bureau.,Clause about credit score risk,
+borrower_intention_doubt,We doubt your intention to repay as previously assured.,Repeated lies are grounds for willful default allegation.,Clause about lack of repayment intention,
+lender_patience_exhaustion,My client has exercised patience and restraint long enough.,Silence will be treated as intentional negligence.,Clause about lender's tolerance ends,
+registered_post_confirmation,This legal notice is also being sent via registered post.,Sent under proof of delivery and signed receipt.,Clause about notice via registered post,
+civil_suit_readiness,We are prepared to approach appropriate forums for justice.,Client now seeks court intervention to settle the matter.,Clause about readiness for legal suit,
+multiple_notice_reference,This is the third and final notice on this matter.,No more notices will follow after this.,Clause about final reminder notice,
+dispute_escalation_notice,Please take this escalation seriously and comply accordingly.,Judicial escalation imminent unless settled urgently.,Clause about escalation to dispute level,
+court_fee_liability,All court fees will be claimed from you upon legal proceedings.,Litigation costs will be detailed in upcoming suit.,Clause about legal cost recovery,
+municipal_report_notice,We are obliged to report this to municipal defaulter registry.,Municipality to be notified under Public Defaulter Act.,Clause about municipal report trigger,
+honor_commitment_final,Honor your promise and avoid further complications.,Final compliance request before legal entry.,Clause about last opportunity to repay,
+last_chance_resolution,This is your final opportunity to resolve the matter peacefully.,Resolve this today to avoid case registration.,Clause about final request for peaceful resolution,
